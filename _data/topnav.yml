@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: site
-      url: https://github.com/ivanlei/ivanlei.github.io
+      external_url: https://github.com/ivanlei/ivanlei.github.io
 
 #Topnav dropdowns
 topnav_dropdowns:
