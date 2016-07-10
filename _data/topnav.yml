@@ -11,6 +11,7 @@ topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
     - title: news
+      folderitems:
         - title: nytimes
           external_url: https://www.nytimes.com
         - title: google
